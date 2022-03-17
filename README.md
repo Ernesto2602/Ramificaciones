@@ -1,6 +1,6 @@
 # Ramificaciones en Git
 
-Alumno: neto bamoa
+Alumno: Ernesto Galvez Flores
 
 Profesor: Bidkar
 
